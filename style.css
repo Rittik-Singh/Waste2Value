@@ -279,6 +279,7 @@ body {
 }
 
 .menu a {
+    text-decoration: none;
     font-size: 1.6rem;
     color: var(--text-color);
     font-weight: 500;
@@ -365,6 +366,7 @@ body {
 }
 
 .cn {
+    text-decoration: none;
     display: inline-block;
     padding: 1.2rem 2.8rem;
     background: var(--main-color);
@@ -1006,4 +1008,5 @@ footer p {
     .hero h1 {
         font-size: 4rem;
     }
+
 }
